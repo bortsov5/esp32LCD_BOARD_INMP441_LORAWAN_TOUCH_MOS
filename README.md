@@ -19,4 +19,6 @@
 - Динамик пищалка
 - LORAWAN     
 
-<img src="src\esp32LCD.png" alt="" width="600">
+<img src="img\esp32LCD.png" alt="" width="700">
+<img src="img\photo_2025-11-06_15-50-22.jpg" alt="" width="700">
+<img src="img\photo_2025-11-06_15-50-28.jpg" alt="" width="700">
